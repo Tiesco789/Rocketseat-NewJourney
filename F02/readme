@@ -1,0 +1,11 @@
+Rota: Receber a requisição, chamar outro arquivo, devolver uma resposta
+
+[x] Recebimento das informações
+[x] Tratativa de erros/excessões
+[x] Acesso ao repositório
+
+Dependecy Inversion (SOLID)
+
+Single Responsability Principle
+Dependecy Inverstion Principle
+
