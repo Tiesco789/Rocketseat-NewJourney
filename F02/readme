@@ -9,3 +9,6 @@ Dependecy Inversion (SOLID)
 Single Responsability Principle
 Dependecy Inverstion Principle
 
+Você só pode alterar migrations se ela não foi enviado para o sistema de controle de versão, ou seja, que só exista na sua máquina
+
+Excpetion Handling: como vamos lidar com erros dentro da nossa aplicação
