@@ -1,0 +1,36 @@
+Arguments: 
+  /home/tiesco/.nvm/versions/node/v13.13.0/bin/node /usr/share/yarn/bin/yarn.js add create-react-app f06 --template=typescript
+
+PATH: 
+  /home/tiesco/.zinit/polaris/bin:/home/tiesco/.nvm/versions/node/v13.13.0/bin:/home/tiesco/.asdf/shims:/home/tiesco/.asdf/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/tiesco/Android/Sdk/emulator:/home/tiesco/Android/Sdk/tools:/home/tiesco/Android/Sdk/tools/bin:/home/tiesco/Android/Sdk/platform-tools:/home/tiesco/flutter/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  13.13.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/f06: Not found
+      at Request.params.callback [as _callback] (/usr/share/yarn/lib/cli.js:66987:18)
+      at Request.self.callback (/usr/share/yarn/lib/cli.js:140748:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (/usr/share/yarn/lib/cli.js:141720:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (/usr/share/yarn/lib/cli.js:141642:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1201:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
